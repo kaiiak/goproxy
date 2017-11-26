@@ -1,1 +1,1 @@
-# goproxy
+# goproxy [![Build Status](https://travis-ci.org/kaiiak/goproxy.svg?branch=master)](https://travis-ci.org/kaiiak/goproxy) [![GoDoc](https://godoc.org/github.com/kaiiak/goproxy?status.svg)](https://godoc.org/github.com/kaiiak/goproxy)
