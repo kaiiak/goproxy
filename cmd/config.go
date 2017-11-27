@@ -23,6 +23,6 @@ func initConfig() {
 
 	viper.AutomaticEnv()
 	if err := viper.ReadInConfig(); err == nil {
-		fmt.Printf("Goproxy useing config file: %s", viper.ConfigFileUsed())
+		fmt.Printf("Goproxy using config file: %s", viper.ConfigFileUsed())
 	}
 }
